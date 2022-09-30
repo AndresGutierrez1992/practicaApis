@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+
+}
+
+.container{
+
+    display: flex;
+    flex-wrap: wrap;
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
+
+.container{
+    margin-left: 15px;
+}
+
+.caja{
+    margin-left: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+    background-color: brown;
+    border-radius: 10
+    px;
+
+}
+
